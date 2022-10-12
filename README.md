@@ -1,2 +1,2 @@
 # ProjectCWA
-Application web d’un site commercial de vente d’un produit 
+Application web d’un site commercial de vente d’un produit en Angular
